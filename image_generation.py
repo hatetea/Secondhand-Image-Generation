@@ -1,6 +1,6 @@
 from PIL import Image, ImageDraw, ImageFont
 
-async def generate_image(image_path: str, query: str, title: str, subtitle: str) -> None:
+def generate_image(image_path: str, query: str, title: str, subtitle: str) -> None:
 	
 	image = Image.open(image_path)
 	image = image.convert('RGBA')
