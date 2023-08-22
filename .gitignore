@@ -1,0 +1,179 @@
+# General
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Compiled files
+*.o
+*.pyc
+*.pyo
+__pycache__/
+*.class
+*.war
+*.jar
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Build and dependency directories
+node_modules/
+bower_components/
+__pycache__/
+dist/
+build/
+out/
+target/
+
+# Package files
+*.egg
+*.egg-info/
+*.tar.gz
+*.rar
+*.zip
+*.gz
+
+# OS generated files
+Icon?
+.DS_Store
+ehthumbs.db
+ehthumbs_vista.db
+
+# Editors
+*~
+*.swp
+*.swo
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+*.komodotools
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Virtualenvs
+venv/
+env/
+.env/
+
+# Compiled Java files
+*.class
+
+# Compiled C++ files
+*.o
+*.so
+
+# Compiled Objective-C files
+*.o
+*.so
+
+# Compiled Ruby files
+*.o
+
+# Compiled C# files
+*.o
+*.pdb
+*.dll
+*.exe
+
+# Compiled Swift files
+*.o
+
+# Compiled Kotlin files
+*.o
+
+# Compiled Go files
+*.o
+
+# Compiled Rust files
+*.o
+
+# Compiled Dart files
+*.o
+
+# Compiled TypeScript files
+*.o
+
+# Compiled JavaScript files
+*.js.map
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+
+# Cache files
+.cache/
+
+# Virtual Machine files
+*.vmx
+*.ova
+*.ovf
+
+# Editor-specific temp files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jekyll output directory (if used)
+_site/
+.sass-cache/
+
+# Dependency directories
+/bower_components
+/bower.json
+
+# yarn.lock file
+yarn.lock
+
+# npm lock file
+package-lock.json
+
+# Python virtual environment
+.venv/
+__pycache__/
+
+# Mac specific files
+.AppleDouble
+.DS_Store
+.LSOverride
+Icon
+._*
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code settings
+.vscode/
+
+# Node.js debug log
+node_modules/debug.log
+
+# Logs from npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
